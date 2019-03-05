@@ -8,3 +8,4 @@ test runner ：执行测试用例，并将测试结果保存到TextTestResult�
 test fixture：一个测试用例的初始化准备及环境还原，主要是setUp() 和 setDown()方法；    
 2.测试Log生成：unittest_output_beautifulreport_ex1，unittest_output_HtmlTestRunner，unittest_output_txt    
 3.测试结果信息收集：unittest_result_message_base，unittest_result_message_bf    
+4.跳过用例：unittest_skip_case  
