@@ -1,0 +1,21 @@
+test_run (test1.MyTest1) ... ok
+test_run1 (test1.MyTest1) ... ok
+test_run2 (test1.MyTest1) ... ok
+test_run3 (test1.MyTest1) ... ok
+test_run (test2.MyTest2) ... FAIL
+test_run1 (test2.MyTest2) ... ok
+test_run2 (test2.MyTest2) ... ok
+test_run3 (test2.MyTest2) ... ok
+
+======================================================================
+FAIL: test_run (test2.MyTest2)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "D:\yangjian\project\unittest_pro\test_case\test2.py", line 25, in test_run
+    self.assertIs(1, 2)
+AssertionError: 1 is not 2
+
+----------------------------------------------------------------------
+Ran 8 tests in 33.008s
+
+FAILED (failures=1)
