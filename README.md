@@ -9,4 +9,4 @@ test fixture：一个测试用例的初始化准备及环境还原，主要是s
 2.测试Log生成：unittest_output_beautifulreport_ex1，unittest_output_HtmlTestRunner，unittest_output_txt    
 3.测试结果信息收集：unittest_result_message_base，unittest_result_message_bf    
 4.跳过用例：unittest_skip_case  
-5.失败用例重跑方法（精确筛选执行用例）
+5.统计失败用例名，并将失败用例重跑方法？（精确筛选执行用例）  
