@@ -2,7 +2,7 @@
 ##unittest基础使用方法
 ###1.基本概念：test case；test suite；testLoader；test runner；test fixture。   
 ![概念图](images/unittest.JPG)    
-###Testcase：    
+<font size=5>Testcase：</font>    
 1.一个 testcase 就是一个测试用例。Setup（测试环境的准备）、run（测试 执行）、teardown（测试环境的还原）。    
 2.测试方法的名称要以test开头。且只会执行以test开头定义的方法（测试用例）。    
 ###Testsuite（集合或套件）：     
