@@ -1,6 +1,6 @@
 # unittest_base
 ##unittest基础使用方法
-###1.基本概念：test case,test suite,testLoader，test runner,test fixture。   
+###1.基本概念：test case；test suite；testLoader；test runner；test fixture。   
 ![概念图](images/unittest.JPG)    
 test case：     
 1.一个完整的测试单元，执行该测试单元可以完成对某一个问题的验证，完整体现在：测试前环境准备(setUp)，执行测试代码(run)，及测试后环境还原(tearDown)；     
