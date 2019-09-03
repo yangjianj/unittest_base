@@ -24,3 +24,7 @@ fixture：一个测试用例环境的搭建和销毁。
 2.测试结果信息收集：unittest_result_message_base.py，unittest_result_message_bf.py    
 3.跳过用例：unittest_skip_case.py  
 4.统计失败用例名，并将失败用例重跑方法？（精确筛选执行用例）  unittest_discover_base.py  
+
+
+参考文档：    
+https://blog.csdn.net/fengguangke    
