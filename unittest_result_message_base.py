@@ -23,3 +23,5 @@ if __name__ == '__main__':
     print(test_result.unexpectedSuccesses)
     print('errors case')
     print(test_result.errors)
+    print("all output")
+    print(test_result._stdout_buffer)

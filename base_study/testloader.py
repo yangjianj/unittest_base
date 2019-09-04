@@ -29,5 +29,6 @@ if __name__ == '__main__':
     test_cases3 = unittest.TestLoader().loadTestsFromName('for_loader.TestCase1.ab_test_print_b')
     suite.addTests(test_cases1)
     suite.addTests(test_cases2)
-    suite.addTests(test_cases3)runner = unittest.TextTestRunner(verbosity=2)
+    suite.addTests(test_cases3)
+    runner = unittest.TextTestRunner(verbosity=2)
     runner.run(suite)
