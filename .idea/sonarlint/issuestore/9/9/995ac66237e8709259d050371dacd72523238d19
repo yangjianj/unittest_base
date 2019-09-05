@@ -1,10 +1,10 @@
 
-python:S1871ñ"cEither merge this branch with the identical one on line "748" or change one of the implementations.(àŸûçüÿÿÿÿ
-wpython:S117"ZRename this local variable "startTime" to match the regular expression ^[_a-z][a-z0-9_]*$.(×¯©İüÿÿÿÿ
-upython:S107á"XMethod "_generate_report_test" has 8 parameters, which is greater than the 7 authorized.(Úñ±æÿÿÿÿÿ
-ppython:S101…"SRename class "Template_mixin" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(â¹†şÿÿÿÿ
-|python:S1871ø"cEither merge this branch with the identical one on line "755" or change one of the implementations.(°Ò¯‘
-rpython:S3776á"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(Úñ±æÿÿÿÿÿ
-zpython:S117¶"]Rename this local variable "sortedResult" to match the regular expression ^[_a-z][a-z0-9_]*$.(×ÂŸŠıÿÿÿÿ
-<python:S125ê"Remove this commented out code.(æ…ÕÓûÿÿÿÿ
-rpython:S3776´"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(©ÔüŸşÿÿÿÿ
+ypython:S107"XMethod "_generate_report_test" has 8 parameters, which is greater than the 7 authorized.(Úñ±æÿÿÿÿÿ8œ—íöÏ-
+…python:S1871"cEither merge this branch with the identical one on line "748" or change one of the implementations.(àŸûçüÿÿÿÿ8œ—íöÏ-
+€python:S1871"cEither merge this branch with the identical one on line "755" or change one of the implementations.(°Ò¯‘8œ—íöÏ-
+@python:S125"Remove this commented out code.(æ…ÕÓûÿÿÿÿ8œ—íöÏ-
+vpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(©ÔüŸşÿÿÿÿ8œ—íöÏ-
+vpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(Úñ±æÿÿÿÿÿ8œ—íöÏ-
+tpython:S101"SRename class "Template_mixin" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(â¹†şÿÿÿÿ8œ—íöÏ-
+{python:S117"ZRename this local variable "startTime" to match the regular expression ^[_a-z][a-z0-9_]*$.(×¯©İüÿÿÿÿ8œ—íöÏ-
+~python:S117"]Rename this local variable "sortedResult" to match the regular expression ^[_a-z][a-z0-9_]*$.(×ÂŸŠıÿÿÿÿ8œ—íöÏ-
