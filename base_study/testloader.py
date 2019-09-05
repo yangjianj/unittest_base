@@ -27,6 +27,9 @@ if __name__ == '__main__':
     test_cases1 = unittest.TestLoader().loadTestsFromTestCase(CasesALL)
     test_cases2 = unittest.TestLoader().loadTestsFromModule(for_loader)
     test_cases3 = unittest.TestLoader().loadTestsFromName('for_loader.TestCase1.ab_test_print_b')
+
+    #目录+文件名匹配：存放用例的目录属性必须是python package，必须要有__init__.py；否则不会遍历子目录
+    discover = unittest.defaultTestLoader.discover(casedir, pattern="ui_lianjia*.py", top_level_dir=None) 
     suite.addTests(test_cases1)
     suite.addTests(test_cases2)
     suite.addTests(test_cases3)
