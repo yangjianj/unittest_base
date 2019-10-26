@@ -29,3 +29,10 @@ fixture：一个测试用例环境的搭建和销毁。
 
 参考文档：    
 https://blog.csdn.net/fengguangke    
+
+
+对unittest库的理解：    
+
+
+
+
