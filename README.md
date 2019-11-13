@@ -31,7 +31,10 @@ fixture：一个测试用例环境的搭建和销毁。
 https://blog.csdn.net/fengguangke    
 
 
-对unittest库的理解：    
+unittest库代码解读：
+1.主要几个类：'TestResult', 'TestCase', 'TestSuite', 'TextTestRunner', 'TestLoader','defaultTestLoader'
+2.'TestResult', 'TestCase'的对象都为可调用对象（TestResult对象作为参数），都有run方法执行，TestResult的run方法为迭代执行TestCase的run方法。
+3.
 
 
 
